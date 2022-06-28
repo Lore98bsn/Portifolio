@@ -1,0 +1,267 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FCF0FB;
+}
+
+ul {
+    display: flex;
+    text-decoration: none;
+    justify-content: right;
+    gap: 32px;
+    margin-top: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    margin: 20px 149px 0 203px;
+}
+
+.menu {
+    list-style: none;
+}
+
+.falso_menu {
+    justify-content: center;
+    margin-top: 70px;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    color: #5F4747;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo {
+    margin-top: 1px;
+    margin-right: 550px;
+    width:100px;
+
+}
+
+h1 {
+    margin-top: 71px;
+    margin-bottom: 23px;
+    font-family: 'Neuton', serif;
+    font-weight: 800;
+    font-size: 32px;
+    color: #2C0245;
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+h3 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    width: 386px;
+    margin-left: 308px;
+    text-align: center;
+
+}
+
+.paragrafo_um {
+    margin-top: 13px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 15px;
+    width: 330px;
+    height: 32px;
+    margin-left: 345px;
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+.botao {
+    padding: 4px;
+    border-radius: 4px;
+    background-color: #65258a;
+    color: white;
+    width: 74px;
+    height: 22px;
+    display: flex;
+    margin-left: 600px;
+    margin-top: 8px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 15px;
+
+}
+
+img {
+    margin-top: 12px;
+
+}
+
+.menu {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+h1::before {
+    content: " ";
+    background-color: #D71140;
+    position: absolute;
+    width: 75px;
+    height: 8px;
+    left: 548px;
+    opacity: .15;
+    border-radius: 6px;
+}
+
+.foto {
+    margin-left: 250px;
+
+}
+
+div {
+    display: flex;
+
+}
+
+h4 {
+    font-family: 'Mirza';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    color: #2C0245;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 140px;
+
+}
+
+.primeira_aba {
+    font-family: 'Mirza';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    color: #2C0245;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 2px;
+}
+
+.paragrafo_dois {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+    margin-top: 2px;
+    margin-left: 80px;
+    width: 395px;
+    justify-content: center;
+}
+
+.primeira_parte {
+    margin-top: 150px;
+}
+
+.segunda_parte {
+    margin-top: 93px;
+    justify-content: center;
+    gap: 90px;
+    list-style: none;
+    margin-bottom: 100px;
+}
+
+.terceira_parte {
+    display: block;
+    align-items: center;
+}
+
+.pecarara {
+    margin-left: 208px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.seteondas {
+    margin-left: 490px;
+    margin-top: 71px;
+
+}
+
+.burguer {
+    margin-left: 208px;
+    margin-top: 71px;
+}
+
+
+.paragrafo_tres {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.paragrafo_quatro {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+strong {
+    color: #65258a
+}
+
+section::after {
+    content: " ";
+    position: absolute;
+    background-color: black;
+    width: 1184px;
+    height: 2px;
+    opacity: .20;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+    margin-bottom: 60px;
+    margin-left: 80px;
+
+}
+
+.copyright {
+    width: 20px;
+    margin-bottom: 0.2px;
+    
+}
+
+footer {
+    margin-left: 180px;
+}
+
+.nome {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+div{
+    gap: 10px;
+
+}
+ 
